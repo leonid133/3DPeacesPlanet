@@ -1,0 +1,33 @@
+Functions called:
+ fflush (4 times)
+ delete (11 times)
+ atan (6398438 times)
+ cos (19455957 times)
+ sin (6485319 times)
+ acos (6485319 times)
+ pow (6485319 times)
+ ferror (1 times)
+ fread (1 times)
+ free (13 times)
+ fclose (2 times)
+ fopen (2 times)
+ memset (3 times)
+ new (11 times)
+ SysFreeMem (95 times)
+ SysGetMem (95 times)
+ lstrlenA (1 times)
+ lstrcpynA (4 times)
+ calloc (1 times)
+ strlen (71 times)
+ realloc (1 times)
+ strdup (1 times)
+ malloc (10 times)
+ memcpy (3 times)
+Resource types used:
+ object (11 allocs, 11 max)
+ memory block (108 allocs, 95 max)
+ file stream (2 allocs, 1 max)
+ file handle (2 allocs, 1 max)
+Modules used:
+ 00400000 10/26/2010 09:34:36 C:\Leonid 7\WorkDirectory\3dMap\Project1.exe
+==========================================
